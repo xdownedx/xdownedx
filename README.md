@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xdownedx
-- 👀 I’m interested in Python back-end dev
-- 🌱 I’m currently learning in Mirea is shit
+- 👀 I’m interested in Python backend dev and ML
+- 🌱 I’m currently learning in Mirea
 - 📫 my tg is @xdownedx
 
 <!---
